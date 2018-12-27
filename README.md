@@ -14,6 +14,11 @@ npm run dev
 # build for production with minification
 npm run build
 
+# 全局安装http-server
+
+# 进入dist目录
+ hs -o -p 9999
+
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
